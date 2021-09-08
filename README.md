@@ -1,4 +1,3 @@
-# Emotion_Recognition_initial_recordings
 
 wav_file_processing.py script helps to standardize the wav name files. 
 
